@@ -8,7 +8,7 @@ Zhengyi Xu
 
 ## Class Link
 
-[CS5610 Web Development 2025 Spring](https://johnguerra.co/classes/webDevelopment_spring_2024/)
+[CS5610 Web Development 2025 Spring](https://johnguerra.co/classes/webDevelopment_spring_2025/)
 
 ## Project Objective
 
@@ -74,6 +74,11 @@ npm install
 3. Run:
 
 Direct to local directory cloning the repository and open the index.html.
+
+## Relevant documents:
+[Demo vieo](https://drive.google.com/file/d/1AmpZQUe4eW7r1zWDt4ycjR4OtYXx5MN5/view?usp=sharing)
+[Project presentation](https://docs.google.com/presentation/d/1C-PeFzFwSz8utrtzMCMTpjeDrfqgYV4S2ID-SCCr2Vk/edit?usp=sharing)
+
 
 ## License
 
