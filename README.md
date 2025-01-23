@@ -22,7 +22,11 @@ A personal website designed to showcase programming skills and project experienc
 
 ## Screenshots
 
-[Add screenshots after deployment]
+<img width="1341" alt="image" src="https://github.com/user-attachments/assets/9dc20758-aee8-478c-807f-c5146d162802" />
+
+<img width="1341" alt="image" src="https://github.com/user-attachments/assets/1f769b21-d2d4-4388-8379-95b5a54ef58c" />
+
+<img width="1341" alt="image" src="https://github.com/user-attachments/assets/e3edf459-d8d2-403e-af3c-b3f9d98a5ee4" />
 
 ## Technology Stack
 
@@ -46,7 +50,6 @@ project-root/
 │   └── icon.png
 │   └── icon_laugh.png
 │   └── linkedin.png
-│   └── arrow.svg
 │   └── cat.jpg
 │   └── hiking.jpg
 ├── index.html
@@ -76,10 +79,13 @@ npm install
 Direct to local directory cloning the repository and open the index.html.
 
 ## Relevant documents:
-[Demo vieo](https://drive.google.com/file/d/1AmpZQUe4eW7r1zWDt4ycjR4OtYXx5MN5/view?usp=sharing)
+Design doc is uploaded into the repository but can also be accessed through the [link](https://drive.google.com/file/d/1250pVi3DxVMEcU4aLaU7yIRUU78nm9bP/view?usp=sharing)
 
+[Demo video](https://drive.google.com/file/d/1AmpZQUe4eW7r1zWDt4ycjR4OtYXx5MN5/view?usp=sharing)
 
 [Project presentation](https://docs.google.com/presentation/d/1C-PeFzFwSz8utrtzMCMTpjeDrfqgYV4S2ID-SCCr2Vk/edit?usp=sharing)
+
+[Thumbnail image](https://drive.google.com/file/d/1AoLSj6a7OFh-4AvAeTJHtoDbQOIgNtSF/view?usp=sharing)
 
 
 ## License
