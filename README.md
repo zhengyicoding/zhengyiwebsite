@@ -79,7 +79,7 @@ npm install
 Direct to local directory cloning the repository and open the index.html.
 
 ## Relevant documents:
-Design doc is uploaded into the repository but can also be accessed through the [link](https://drive.google.com/file/d/1250pVi3DxVMEcU4aLaU7yIRUU78nm9bP/view?usp=sharing)
+Design doc is uploaded into the repository but can also be accessed through the [link](https://github.com/zhengyicoding/zhengyiwebsite/blob/main/proj1_design_doc.pdf)
 
 [Demo video](https://youtu.be/M9hd0SEtGW0)
 
