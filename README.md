@@ -80,6 +80,11 @@ npm install
 
 Direct to local directory cloning the repository and open the index.html.
 
+## Use of GenAI:
+Used Claude 3.5 Sonnet.
+Prompt used:" I want to add a JavaScript function to my website that when a user hovers on my normal profile pic, it changes to another pic. And when the mouse leaves the pic, it changes back to normal pic. Also when a user clicks on the pic, it changes to another pic if it is the normal one and changes to the normal one if it is another pic."
+How it was used: I used the prompt above to help me write the JavaScript function that realizes the creative feature of my personal website because I was not familiar with JavaScript functions when making the website. The solution Claude gave was really helpful, I just needed to replace the paths to the 2 images (the normal one and another one) and the code worked fine.
+
 ## Relevant documents:
 Design doc is uploaded into the repository but can also be accessed through the [link](https://github.com/zhengyicoding/zhengyiwebsite/blob/main/proj1_design_doc.pdf)
 
