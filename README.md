@@ -1,6 +1,6 @@
 # Zhengyi Xu's Personal website
 
-Zhengyi's personal website with project experiences
+Zhengyi's personal website with project experiences deployed on https://zhengyicoding.github.io/zhengyiwebsite/
 
 ## Author
 
@@ -13,6 +13,8 @@ Zhengyi Xu
 ## Project Objective
 
 A personal website designed to showcase programming skills and project experiences. The site features a simplified and responsive design with a main page demonstrating key information of self introduction, programming skills, hobbies and a dedicated page to list project experiences.
+
+The **creative** part that differenciate this homepage is that whenever a user hovers over or clicks on my profile picture, it will change from smiling to laughing and from a laughing one to a smiling one. And I realized this part using vanilla JavaScript to change the profile pictures when it is hovered over or clicked on.
 
 ## Features
 
@@ -87,6 +89,7 @@ Design doc is uploaded into the repository but can also be accessed through the 
 
 [Thumbnail image](https://raw.githubusercontent.com/zhengyicoding/zhengyiwebsite/refs/heads/main/img/zhengyi_website_pic.png)
 
+## Use of 
 
 ## License
 
