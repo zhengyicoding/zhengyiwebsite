@@ -81,11 +81,11 @@ Direct to local directory cloning the repository and open the index.html.
 ## Relevant documents:
 Design doc is uploaded into the repository but can also be accessed through the [link](https://drive.google.com/file/d/1250pVi3DxVMEcU4aLaU7yIRUU78nm9bP/view?usp=sharing)
 
-[Demo video](https://drive.google.com/file/d/1AmpZQUe4eW7r1zWDt4ycjR4OtYXx5MN5/view?usp=sharing)
+[Demo video](https://youtu.be/M9hd0SEtGW0)
 
 [Project presentation](https://docs.google.com/presentation/d/1C-PeFzFwSz8utrtzMCMTpjeDrfqgYV4S2ID-SCCr2Vk/edit?usp=sharing)
 
-[Thumbnail image](https://drive.google.com/file/d/1AoLSj6a7OFh-4AvAeTJHtoDbQOIgNtSF/view?usp=sharing)
+[Thumbnail image](https://raw.githubusercontent.com/zhengyicoding/zhengyiwebsite/refs/heads/main/img/zhengyi_website_pic.png)
 
 
 ## License
